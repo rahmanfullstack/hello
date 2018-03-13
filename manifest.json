@@ -1,0 +1,49 @@
+{
+  "name": " < / > Club SUIIT",
+  "short_name": " < / >",
+  "theme_color": "#000101",
+  "background_color": "#000101",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "images/36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "images/48.png.png",
+      "sizes": "48X48",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "images/72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "images/96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "images/144.png",
+      "sizes": "144X144",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "images/196.png",
+      "sizes": "196X196",
+      "type": "image/png",
+      "density": "0.75"
+    }
+  ],
+  "splash_pages": null
+}
