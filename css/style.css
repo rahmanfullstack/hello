@@ -611,15 +611,6 @@ section .subheading {
 end Section sidebar-menu
 ----------------------------------------------------*/
 
-
-/*----------------------------------------------------
-start section slider for slider page
-----------------------------------------------------*/
-
-/*----------------------------------------------------
-end section slider for slider page
-----------------------------------------------------*/
-
 /*----------------------------------------------------
 start div swiper-container for carousel page
 ----------------------------------------------------*/
@@ -630,7 +621,7 @@ start section home-part for particles page
 .home-part{
 	position: relative;
     height: 100vh;
-    background-image: url('../images/bg.jpeg');
+    background-image: url('../images/bg.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
